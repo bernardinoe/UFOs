@@ -7,7 +7,7 @@ The purpose of the the project was to show the UFO data and being able to filter
 
 ![Image1](https://github.com/bernardinoe/UFOs/blob/main/Image1.PNG)
 
-![Image2](https://github.com/bernardinoe/UFOs/blob/main/Image2.png)
+![Image2](https://github.com/bernardinoe/UFOs/blob/main/Image2.PNG)
 
 You can perform a search by entering different values. Data can be filter by Date, City, State, Country or Shape or a mix of them.
 
